@@ -1,0 +1,28 @@
+_repo: Punanen-lippu-b-ynna-pari-muuta-kertomusta_72606
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hornborg, Karl Henrik
+    alias: Sarvela, Heikki
+    birthdate: 1853
+    deathdate: 1921
+    gutenberg_agent_id: '46507'
+    url: http://www.gutenberg.org/2009/agents/46507
+description: ''
+gutenberg_issued: '2024-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72606'
+language: fi
+pgterms:marc905: 20231009080435hornborg
+pgterms:marc906: '1889'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1889.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Punanen lippu : $b ynnä pari muuta kertomusta'
+url: http://www.gutenberg.org/ebooks/72606
