@@ -1,5 +1,8 @@
 _repo: Punanen-lippu-b-ynna-pari-muuta-kertomusta_72606
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hornborg, Karl Henrik
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46507'
     url: http://www.gutenberg.org/2009/agents/46507
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72606#Punanen-lippu-b-ynna-pari-muuta-kertomusta
 gutenberg_issued: '2024-01-03'
 gutenberg_type: Text
 identifiers:
